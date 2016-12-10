@@ -1734,6 +1734,9 @@
 .fa-user-secret:before {
   content: "\f21b";
 }
+.fa-user-circle:before{
+	content: "\f2bd";
+}
 .fa-motorcycle:before {
   content: "\f21c";
 }
