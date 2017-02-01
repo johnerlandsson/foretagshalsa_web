@@ -519,7 +519,7 @@ img{
 }
 
 .slide-content {
-  background-color: rgba(0, 0, 0, 0.6);
+  /*background-color: rgba(0, 0, 0, 0.6);*/
   height: 100%;
   left: 0;
   position: absolute;
@@ -580,6 +580,7 @@ img{
   padding-right: 20px;
   padding-top: 150px;
   width: 100%;
+  background-color: rgba(0,0,0,0.5);
 }
 
 .slide-article h1 {
@@ -1572,7 +1573,7 @@ img{
 
 #single-page-header{
   background-attachment: fixed !important;
-  background-image: url("assets/images/slider-5.jpg");
+  background-image: url("assets/images/falken_homepage_skeleton_8573.jpg");
   background-repeat: repeat;
   background-size: cover;
   color: #ffffff;
@@ -1582,7 +1583,7 @@ img{
 }
 
 .overlay{
-  background-color: rgba(0,0,0,0.6); 
+  /*background-color: rgba(0,0,0,0.6); */
   padding: 90px 0;
   float: left;
   width: 100%;
@@ -1592,6 +1593,8 @@ img{
   display: inline;
   float: left;
   width: 100%;
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px;
 }
 
 .single-page-header-left h2{
@@ -1710,7 +1713,7 @@ img{
 
 .single-item:hover .single-item-content{
   background-color: rgba(0,0,0,0.7);
- opacity: 1;  
+  opacity: 1;  
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
   -o-transform: scale(1);
